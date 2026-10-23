@@ -18,3 +18,8 @@
 
 - Переменные дашборда в побробностях:
 ![alt text](screenshots/dashboard_variables/cpu.png) ![alt text](screenshots/dashboard_variables/free_space.png) ![alt text](screenshots/dashboard_variables/ram.png) ![alt text](screenshots/dashboard_variables/traffic.png)
+
+
+Подробности в логах, но итог:
+Сравнение размеров образов
+![alt text](image.png)
